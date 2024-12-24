@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Gaglie
+// @name         SLY Assistant  -  Gaglie
 // @namespace    http://tampermonkey.net/
 // @version      0.6.38
 // @description  try to take over the world!
